@@ -15,16 +15,16 @@
 
 ## 项目启动
 
-文本清洗和增强：[`./code/data_process.py`](https://github.com/crazyfat/nterprise--label-extraction/tree/main/code/data_process.py)
+文本清洗和增强：[`./code/data_process.py`](https://github.com/crazyfat/enterprise--label-extraction/blob/main/code/data_process.py)
 
-启动文件：[`./code/KW_EXC.py`](https://github.com/crazyfat/nterprise--label-extraction/tree/main/code/KW_EXC.py)
+启动文件：[`./code/KW_EXC.py`](https://github.com/crazyfat/enterprise--label-extraction/blob/main/code/KW_EXC.py)
 
 
 ## 说明
 
 训练数据涉及企业信息，本仓库并未公开；
 
-抽取结果展示示例：[`./result/union_model.txt`](https://github.com/crazyfat/nterprise--label-extraction/tree/main/result/union_model.txt)
+抽取结果展示示例：[`./result/union_model.txt`](https://github.com/crazyfat/enterprise--label-extraction/blob/main/result/union_model.txt)
 
 
 
