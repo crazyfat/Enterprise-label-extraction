@@ -1,4 +1,4 @@
-# enterprise--label-extraction
+# Enterprise-label-extraction
 
 基于关键词提取技术的企业标签提取项目。
 
